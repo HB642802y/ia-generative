@@ -1,0 +1,2 @@
+﻿document_id,fichier,titre,famille_equipement,equipement_id,type_document,version,nb_pages,langue,format,elements_visuels,provenance,licence,genere_par_ia,outil_ia,verifie_par,corrections,groupe_acces,usage_test,remarques
+DOC-EXEMPLE,A_REMPLACER.pdf,Exemple à remplacer,famille_1,ECU-001,manuel,à renseigner,à renseigner,fr,PDF,à vérifier,à renseigner,à vérifier,non,,à renseigner,,GROUPE_TECH_ECU,à définir,Supprimer ou remplacer cette ligne modèle.
